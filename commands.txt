@@ -5,3 +5,10 @@ pip install coverage
 coverage run --omit='*/venv/*' manage.py test
 coverage html
 pip install djangorestframework
+
+'''create api Schema and documentation'''
+pip install pyyaml
+pip install coreapi
+
+'''django filter for search functionality'''
+pip install django-filter
