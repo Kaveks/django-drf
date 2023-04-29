@@ -1,2 +1,2 @@
 # django-drf
-## backend api for a reactf blog
+## This repo was used to develop backend api for a react blog
